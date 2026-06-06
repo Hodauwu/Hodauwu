@@ -1,16 +1,21 @@
-## Hi there 👋
+Amrit Ritesh
+👋 About Me
+I am a developer and student at SCMS, deeply passionate about the intersection of software engineering and Artificial Intelligence. My work focuses on designing and implementing intelligent systems, leveraging Python for machine learning workflows, and managing development environments on Linux/Ubuntu.
 
-<!--
-**Hodauwu/Hodauwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a curious builder with a love for hardware optimization. Beyond my technical projects, I am currently navigating a structured path toward postgraduate research and a future career in the AI/ML sector in Japan.
 
-Here are some ideas to get you started:
+🧠 Technical Competencies
+AI & Machine Learning: Building and deploying intelligent models, data processing, and algorithmic problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python, JavaScript, C, C++, Java
+
+Web & Infrastructure: React, Node.js, HTML5, CSS3, Linux/Ubuntu System Administration
+
+Hardware: Custom system configuration and optimization.
+
+🔗 Connect With Me
+LinkedIn: https://www.linkedin.com/in/amrit-ritesh-17a088266/
+
+GitHub: github.com/hodauwu
+
+Developing intelligent solutions, optimizing systems, and preparing for postgraduate AI research.
